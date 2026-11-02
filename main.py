@@ -1,12 +1,5 @@
-import os
-import sys
-
-
 def main():
-    x = None
-    if x == None:
-        print(f"hello")
-    print(undefined_name)
+    print("Hello from dsc190-a05!")
 
 
 if __name__ == "__main__":
